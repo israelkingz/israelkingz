@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<p>🔭 I’m currently working on building fanastic Natural processing solutions, web solutions, Data Science </p>
 <!--
 **israelkingz/israelkingz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
