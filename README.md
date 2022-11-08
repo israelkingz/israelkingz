@@ -1,20 +1,18 @@
-### Hi there 👋
-Odeajo Israel is is a certified Google Web/Mobile Developer, A Data Scientist, Quality Assurance Intern, an excellent project lead, community builder, and Mentor to many across the Nation. 
+I am Odeajo Israel, I have more than 4 years of experience in the analysis space, generating data-driven insights and helping businesses to make data-driven decisions and create thresholds and metrics for their organization.
 
-He has served and still serving as Facilitator and Mentor across different Tech communities in Nigeria and presently ambassador to many tech communities. 
-Facilitator at AI Saturday Ibadan, AI Invasion Boot camp, AI + club, University of Ibadan, Andela Learning Center, Oyo State (Mobile-Web Track), Co-organizer, Tensorflow Ibadan, Lead Facilitator (Hub 67 Academy), Faculty at Aptech, Ideal Konsult
+I have experience tackling complex analytical challenges, supporting various functions with funnel/spend optimization, and making decisions based on high-quality information.
 
-Global Ambassador for Zindi Africa Ambassador, Ingressive Campus Ambassador, World Change Agent (YMCA), Africa Alliance of YMCAs S2C Ambassador, Global Youth Ambassador, World Literacy Ambassador 
+I have advanced skills in data analysis - SQL, statistical methods, and models on large data sets.
+I have excellent data visualization skills and storytelling, capable of driving actions from stakeholders (e.g. self-service visualization tools or slide decks).
 
+I have a passion for solving ambiguous, difficult, and unstructured problems.
 
-He is a member of Data Science Nigeria, Black in AI, and many tech ecosystems.
-<p>🔭 I’m currently working on building fanastic Natural processing solutions, web solutions, Data Science </p>
-<p> 🌱 I’m currently learning how to deploy models </p>
-<p> 👯 I’m looking to collaborate on AI projects </p>
-<p> 📫 How to reach me:+234903406750, iodeajo@gmail.com, @israelkingz1 </p>
-<!--
-**israelkingz/israelkingz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am comfortable working across multiple projects in a rapidly changing environment, and able to balance the need for accuracy and efficiency to prioritize work.
 
+I deliver accurate, meaningful, and timely information well-thought-throughout through research and your interpersonal skills enable you to articulate complex concepts in simple terms to stakeholders.
 
+With my data expertise and commercial awareness, I will influence the strategy and decisions that fuel our rapid growth as we look to become one of the world’s leading learning platforms.
 
-- ⚡ 
+I deliver accurate, meaningful, and timely information well-thought-throughout through research and your interpersonal skills enable you to articulate complex concepts in simple terms to stakeholders.
+
+Building Computer Vision using OpenCV and Tensorflow Framework and Transfer learning Inception and Yolo Transfer Model.
