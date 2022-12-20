@@ -1,4 +1,4 @@
-I am Odeajo Israel, I have more than 4 years of experience in the analysis space, generating data-driven insights and helping businesses to make data-driven decisions and create thresholds and metrics for their organization.
+I am Odeajo Israel, A Google TensorFlow Certified, I have more than 4 years of experience in the analysis space, generating data-driven insights and helping businesses to make data-driven decisions and create thresholds and metrics for their organization.
 
 I have experience tackling complex analytical challenges, supporting various functions with funnel/spend optimization, and making decisions based on high-quality information.
 
